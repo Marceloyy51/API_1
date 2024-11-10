@@ -1,6 +1,6 @@
 {
-    "Preferências_disciplinas": {
-        "Back End": {
+    "Preferencias": {
+        "Back_End": {
             "Dificuldade Percebida": 3.7,
             "Interesse na Prática de Programação": 4.5,
             "Relevância para o Mercado de Trabalho": 4.8,
@@ -8,7 +8,7 @@
             "Qualidade das Aulas Práticas": 4.2,
             "Nota": 12
         },
-        "Desenvolvimento de Sistemas": {
+        "Desenvolvimento_de_Sistemas": {
             "Dificuldade Percebida": 4.1,
             "Interesse na Prática de Programação": 4.7,
             "Relevância para o Mercado de Trabalho": 4.9,
@@ -16,7 +16,7 @@
             "Qualidade das Aulas Práticas": 4.6,
             "Nota": 6
         },
-        "Análise de Projetos": {
+        "Analise_de_Projetos": {
             "Dificuldade Percebida": 3.5,
             "Interesse na Prática de Programação": 3.9,
             "Relevância para o Mercado de Trabalho": 4.2,
@@ -24,7 +24,7 @@
             "Qualidade das Aulas Práticas": 3.7,
             "Nota": 6
         },
-        "Banco de Dados": {
+        "Banco_de_Dados": {
             "Dificuldade Percebida": 3.8,
             "Interesse na Prática de Programação": 4.6,
             "Relevância para o Mercado de Trabalho": 4.7,
@@ -32,7 +32,7 @@
             "Qualidade das Aulas Práticas": 4.3,
             "Nota": 8
         },
-        "Computação Gráfica": {
+        "Computacao_Grafica": {
             "Dificuldade Percebida": 3.2,
             "Interesse na Prática de Programação": 4.0,
             "Relevância para o Mercado de Trabalho": 4.0,
