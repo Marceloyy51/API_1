@@ -1,0 +1,51 @@
+{
+        "Back_End": {
+            "Dificuldade Percebida": 3.7,
+            "Interesse na Prática de Programação": 4.5,
+            "Relevância para o Mercado de Trabalho": 4.8,
+            "Satisfação com o Material Didático": 3.9,
+            "Qualidade das Aulas Práticas": 4.2,
+            "Nota": 12
+        },
+        "Desenvolvimento_de_Sistemas": {
+            "Dificuldade Percebida": 4.1,
+            "Interesse na Prática de Programação": 4.7,
+            "Relevância para o Mercado de Trabalho": 4.9,
+            "Satisfação com o Material Didático": 4.0,
+            "Qualidade das Aulas Práticas": 4.6,
+            "Nota": 6
+        },
+        "Analise_de_Projetos": {
+            "Dificuldade Percebida": 3.5,
+            "Interesse na Prática de Programação": 3.9,
+            "Relevância para o Mercado de Trabalho": 4.2,
+            "Satisfação com o Material Didático": 3.8,
+            "Qualidade das Aulas Práticas": 3.7,
+            "Nota": 6
+        },
+        "Banco_de_Dados": {
+            "Dificuldade Percebida": 3.8,
+            "Interesse na Prática de Programação": 4.6,
+            "Relevância para o Mercado de Trabalho": 4.7,
+            "Satisfação com o Material Didático": 4.1,
+            "Qualidade das Aulas Práticas": 4.3,
+            "Nota": 8
+        },
+        "Computacao_Grafica": {
+            "Dificuldade Percebida": 3.2,
+            "Interesse na Prática de Programação": 4.0,
+            "Relevância para o Mercado de Trabalho": 4.0,
+            "Satisfação com o Material Didático": 3.6,
+            "Qualidade das Aulas Práticas": 3.9,
+            "Nota": 12
+        },
+        "Redes": {
+            "Dificuldade Percebida": 4.0,
+            "Interesse na Prática de Programação": 3.5,
+            "Relevância para o Mercado de Trabalho": 4.5,
+            "Satisfação com o Material Didático": 3.9,
+            "Qualidade das Aulas Práticas": 4.0,
+            "Nota": 6
+            
+        }
+}
